@@ -1,0 +1,28 @@
+{
+  "product":{
+    "name": "韩后裸妆BB霜",
+    "brand": "韩后",
+    "huohao": "20671",
+    "price": "100",
+    "youhuijia": "50",
+    "jifen": "50",
+    "sum": "797",
+    "pepnum":"23666",
+    "image": "images/002.jpg"
+  },
+  "cart":{
+    "sum":"1",
+    "sumprice":"50",
+    "products":[
+      {
+        "name": "韩后裸妆BB霜",
+        "price": "100",
+        "youhuijia": "50",
+        "sum": "797",
+        "image": "images/002.jpg"
+      }
+    ]
+  }
+}
+
+
